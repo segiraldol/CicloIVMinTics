@@ -1,1 +1,2 @@
-# CicloIVMinTics
+# CicloIVMinTIC
+¡Hola equipo! 
